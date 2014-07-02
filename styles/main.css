@@ -4692,6 +4692,7 @@ div.content-profile-display {
 
 .panel-region-separator {
   border-bottom: 1px solid #ccc;
+  line-height: 0;
 }
 
 h3 .panel-region-separator {
@@ -4706,7 +4707,7 @@ h3 .panel-region-separator {
   margin-left: 20px;
 }
 
-div.ucsf-library-panel.panel-display.one-sidebars {
+.full-width-minus-one-sidebar {
   width: 700px;
 }
 
